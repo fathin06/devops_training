@@ -3,3 +3,5 @@ This is for testing the git
 second line
 Writing the This line from GitHub
 This is from Local
+testing merge
+
